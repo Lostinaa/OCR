@@ -1,0 +1,8 @@
+
+fastapi
+uvicorn
+pillow
+pytesseract
+python-multipart
+camelot-py[cv]
+opencv-python-headless
